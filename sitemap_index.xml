@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>リダイレクト中...</title>
+		<meta http-equiv="refresh" content="0;url=/sitemap_index.xml/?simply_static_page=2">
+	</head>
+	<body>
+		<script type="text/javascript">
+			window.location = "/sitemap_index.xml/?simply_static_page=2";
+		</script>
+
+		<p><a href="/sitemap_index.xml/?simply_static_page=2">/sitemap_index.xml/?simply_static_page=2</a> にリダイレクト中</p>
+	</body>
+</html>
